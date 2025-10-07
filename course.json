@@ -6,7 +6,7 @@
       "title": "Module 1: Early Visions and Scientific Foundations",
       "description": "This module explores early concepts of lunar colonization, the scientific understanding of the Moon that shaped these visions, and the initial steps in lunar exploration.",
       "topics": [
-        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stub" },
+        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stable" },
         { "title": "Lunar Mythology and Early Speculation", "description": "Exploring early myths and science fiction that imagined life on the Moon.", "path": "instruction/lunar-mythology-and-early-speculation/lunar-mythology-and-early-speculation.md", "type": "instruction", "state": "stub" },
         { "title": "The Moon's Formation and Composition", "description": "A scientific overview of the Moon's origins, geology, and resources.", "path": "instruction/the-moons-formation-and-composition/the-moons-formation-and-composition.md", "type": "instruction", "state": "stub" },
         { "title": "Lunar Environment: Vacuum, Radiation, and Temperature", "description": "Understanding the challenges posed by the lunar environment.", "path": "instruction/lunar-environment-vacuum-radiation-and-temperature/lunar-environment-vacuum-radiation-and-temperature.md",
